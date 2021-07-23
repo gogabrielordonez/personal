@@ -9,6 +9,21 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
     siteTitleAlt: `Gabriel Ordonez - creating digital experiences for the next generation of consumer-facing companies`,
+    title: "Gabriel Ordonez Hernandez",
+    author: "Gabriel ENrique Ordoñez Hernandez",
+    description: "A collection of my thoughts and writings.",
+    siteUrl: "https://gabrielordonez.com/",
+    social: [
+      {
+        name: "twitter",
+        url: "https://twitter.com/gabrielordonezh",
+      },
+      {
+        name: "github",
+        url: "https://github.com/gogabrielordonez",
+      },
+    ],
+  },
   },
   plugins: [
     {
