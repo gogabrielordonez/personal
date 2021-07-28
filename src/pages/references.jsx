@@ -56,4 +56,4 @@ const References = () => (
   </Layout>
 )
 
-export default NotFound
+export default References
